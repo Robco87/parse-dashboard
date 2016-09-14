@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "testbispokeparse2.herokuapp.com",
+    "appId": "2pgcMFyy5CtfSi8gz1fgTpejNIjDTTC600JScBUz",
+    "masterKey": "FrnZ8hEv8rAnkCknxIoKN0P713L3B8qB3nKic65R",
+    "appName": "testbispokeparse2",
     "iconName": ""
   }],
   "iconsFolder": "icons"
